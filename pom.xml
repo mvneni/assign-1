@@ -5,7 +5,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.2.6-SNAPSHOT</version>
+  <version>1.2.6</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -259,7 +259,7 @@
   <scm>
     <connection>scm:git:https://github.com/eficensdevops/sample-web-app.git</connection>
     <developerConnection>scm:git:https://github.com/eficensdevops/sample-web-app.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>1.2.6</tag>
     <url>scm:git:https://github.com/eficensdevops/sample-web-app.git</url>
   </scm>
 
