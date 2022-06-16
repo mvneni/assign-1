@@ -5,7 +5,7 @@
   <groupId>com.example.maven-project</groupId>
   <artifactId>maven-project</artifactId>
   <packaging>pom</packaging>
-  <version>1.2.7-SNAPSHOT</version>
+  <version>1.2.7</version>
   <name>Maven Project</name>
   <description>Sample Maven project with a working, deployable site.</description>
   <url>http://www.example.com</url>
@@ -259,7 +259,7 @@
   <scm>
     <connection>scm:git:https://github.com/mvneni/assign-1.git</connection>
     <developerConnection>scm:git:https://github.com/mvneni/assign-1.git</developerConnection>
-    <tag>HEAD</tag>
+    <tag>1.2.7</tag>
     <url>scm:git:https://github.com/mvneni/assign-1.git</url>
   </scm>
 
